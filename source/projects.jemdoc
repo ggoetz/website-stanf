@@ -1,8 +1,30 @@
 # jemdoc: menu{MENU}{projects.html}
 = Photovoltaic Retinal Prosthesis for Restoring Sight to the Blind
 
+Retinal degenerative diseases such as retinitis pigmentosa or age-related
+macular degeneration are among the leading causes of blindness in the 
+developped world. In patients suffering from these conditions, the 
+light-sensitive photoreceptors in the retina slowly die off, eventually 
+resulting in blindness. However, many of the inner retinal neurons which 
+process and transmit visual invormation are preserved, and electrically 
+stimulating them can elicit phosphenes (percepts of lights).
+
+This idea led to a first generation of retinal implants, pioneered by 
+[http://2-sight.eu/ Second Sight] and [http://retina-implant.de/en Retina 
+Implant AG]. Building upon this technology, the [www.stanford.edu/~palanker 
+Palanker Lab] is developing a high-resolution, highly scalable, fully optical 
+subretinal prosthetic implant which aims at efficiently delivering 
+visual information to degenerate retinas while conserving the natural 
+coupling between eye movement and scanning of a visual scene in a package 
+simple to implant surgically.
+
 == System design
+
 Under construction.
+
+A short animation about the system can be found on 
+[http://www.youtube.com/watch?v=KmVQLCgcJFY Youtube], and a brief overview
+of the project is available [http://www.youtube.com/watch?v=-Tsj1Q_JveI here].
 
 == In-vitro testing
 Under construction.
